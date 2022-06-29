@@ -1,6 +1,6 @@
 [![MasterHead](https://img.itch.zone/aW1hZ2UyL2phbS8yNjQ2ODAvNzM0NDcxOC5naWY=/original/CisZAv.gif)]()
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Manindra</h1>
+<h1 align="center">Hi, I'm Manindra</h1>
 <h3 align="center">Mainly focusing in different levels of development of apps and games</h3>
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
