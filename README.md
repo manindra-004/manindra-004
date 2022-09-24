@@ -1,9 +1,6 @@
 <h1 align="center">
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+&size=30&pause=1000&color=00CDF7&width=435&lines=Hello%2C+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;I+am+Manindra+...!;Nice+To+Meet+You..!+" alt="Typing SVG" /></h1>
 
-<h1 align="center">Hi, I'm Manindra</h1>
-<h3 align="center">Mainly focusing in different levels of development of apps and games</h3>
-
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=manindra-004">
 </a>
