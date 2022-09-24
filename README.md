@@ -1,6 +1,6 @@
 <h1 align="center">
 <a href="https://Manindra.in">
-    <img src=<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code+&size=30&pause=1000&color=00CDF7&width=435&lines=Hello%2C+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;I+am+Manindra+...!;Nice+To+Meet+You..!+">
+    <img src="https://readme-typing-svg.herokuapp.com? font=Fira+Code+&size=30&pause=1000&color=00CDF7&width=435&lines=Hello%2C+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;I+am+Manindra+...!;Nice+To+Meet+You..!+">
   </a>
 </h1>
 
