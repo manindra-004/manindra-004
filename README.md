@@ -1,4 +1,4 @@
-[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/25425fb2-bc94-4349-8d8a-6eabb4d6ccd2/dbuxabu-d3efdaee-c882-4bbb-8d7b-dee51b89cf29.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1NDI1ZmIyLWJjOTQtNDM0OS04ZDhhLTZlYWJiNGQ2Y2NkMlwvZGJ1eGFidS1kM2VmZGFlZS1jODgyLTRiYmItOGQ3Yi1kZWU1MWI4OWNmMjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CdkRFjgnhLg3RVmRh_vbyWqqQP-AtyZUgfZy7-Yy6Z8)]()
+[![MasterHead](<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+&pause=1000&color=00CDF7&width=435&lines=Hello%2C+there+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+;I+am+Manindra+...!;Nice+To+Meet+You..!+" alt="Typing SVG" /></a>)]()
 
 <h1 align="center">Hi, I'm Manindra</h1>
 <h3 align="center">Mainly focusing in different levels of development of apps and games</h3>
