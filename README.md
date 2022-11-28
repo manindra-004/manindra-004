@@ -6,25 +6,6 @@
 </a>
 <a href="https://github.com/manindra-004?tab=followers"><img src="https://img.shields.io/github/followers/manindra-004?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
-- 🔭 I’m currently working on [Indian History](https://play.google.com/store/apps/details?id=com.versionV1.historicalindiaV2)
-
-- 🌱 I’m currently learning **Game development**
-
-- 👯 I’m looking to collaborate on **Treta Education**
-
-- 👨‍💻 All of my projects are available at [Play Store](Play Store)
-
-- 📝 I regularly write articles on [Soon](Soon)
-
-- 💬 Ask me about **My Laptop**
-
-- 📫 How to reach me **bandimanindramudiraj@gmail.com**
-
-- 📄 Know about my experiences [Soon](Soon)
-
-- ⚡ Fun fact **I think I don't know anything but Google helps me a lot**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/manindra_04_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manindra_04_" height="30" width="40" /></a>
